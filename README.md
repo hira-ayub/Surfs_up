@@ -1,6 +1,6 @@
-# surfs_up
+# Surfs_up
 
-## Overview of the analysis:
+## Overview of the Analysis:
 
 Our client W. Avy would like to open a new Ice Cream & Surf shop and to ensure the success of this business, our investor, would like to review the temperature statistics for June and December. Reviewing these months will ensure a successful year-round business for our Ice Cream and Surf shop.
 
